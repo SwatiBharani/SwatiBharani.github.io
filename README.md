@@ -1,5 +1,5 @@
 # SwatiBharani.github.io
-Hello, I am Swati Bharani. I am a wannabe Business Analyst. I shifted my career from consulting in Actuarial Science to Data Science. I like to work hard and make sure everything I do in the end provides me with one thing - Learning. I also post all my coding projects. Go ahead and have a look.
+Hello, I am Swati Bharani. I am a wannabe Business Analyst. I shifted my career from in Actuarial Science consulting to Data Science. I like to work hard and make sure everything I do in the end provides me with one thing - Learning. I also post all my coding projects. Go ahead and have a look.
 
 Starbucks Beverage Analysis (accomplished in R, data sourced from Kaggle) - 
 
